@@ -1,6 +1,6 @@
 # AirlineDataVisualization
 
-https://s1.qwant.com/thumbr/0x380/2/b/21e60d6e68a23c5564d4eb56bbfd06521e8aa48d04b9fe5f15890556129436/OPTICS2-NO-TEXT-2nd-WS_Data-Science-Save-the-date_Poster.png?u=http%3A%2F%2Fwww.optics-project.eu%2Fwp-content%2Fuploads%2F2018%2F06%2FOPTICS2-NO-TEXT-2nd-WS_Data-Science-Save-the-date_Poster.png&q=0&b=1&p=0&a=0
+![image](https://user-images.githubusercontent.com/24919040/148642281-138a8257-44b3-49c8-b7fd-3a076f041295.png)
 
 Airline Data Visualization:
 Several attempts at visualizing and presenting real and fictitious data surrounding airline safety and its relation to that of other industries. 
